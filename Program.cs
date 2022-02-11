@@ -27,7 +27,7 @@ public class Program
 
             }
             
-           // int suma_ciastek = 0;
+           
             
             if (suma_ciastek % b == 0)
             {
