@@ -1,3 +1,5 @@
 # GLUTTON
 GLUTTON - SPOJ problem
-polish variables
+
+
+Polish variables
